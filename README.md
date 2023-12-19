@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gedela Sivakrishna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Java developer</h3>
 
-- 🌱 I’m currently learning **Full stack in MERN**
+- 🌱 I have expertise in Html, Css, JavaScript, React Js, Spring Boot, Object oriented Programming
 
 - 📫 How to reach me **gedelashipa.1321@gmail.com**
 
